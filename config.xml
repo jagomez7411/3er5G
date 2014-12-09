@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Colocar nombre a la aplicacion</name>
+    <name>3er examen 5to G Acelerometro</name>
 
     <description>
-        Aplicacion que muestra los datos del Dispositivo
+        Aplicacion que muestra los datos del acelerometro y Geolocalizacion
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
